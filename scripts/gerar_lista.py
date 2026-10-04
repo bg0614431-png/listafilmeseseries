@@ -8,6 +8,7 @@ SAIDA = BASE / "MinhaLista.m3u"
 fontes = [
     PLAYLISTS / "tv.m3u",
     PLAYLISTS / "ManoSF.m3u",
+    PLAYLISTS / "Cinema.m3u",
     PLAYLISTS / "filmes.m3u",
     PLAYLISTS / "series.m3u",
 ]
@@ -20,19 +21,19 @@ def classificar(extinf):
     texto = extinf.lower()
 
     if any(x in texto for x in [
-        "group-title=\"filmes",
-        "group-title=\"filme",
-        " group-title=\"movie",
-        " group-title=\"movies"
+        'group-title="filmes',
+        'group-title="filme',
+        'group-title="movie',
+        'group-title="movies'
     ]):
         return "movie"
 
     if any(x in texto for x in [
-        "group-title=\"série",
-        "group-title=\"serie",
-        "group-title=\"series",
-        "group-title=\"dorama",
-        "group-title=\"novela"
+        'group-title="série',
+        'group-title="serie',
+        'group-title="series',
+        'group-title="dorama',
+        'group-title="novela'
     ]):
         return "series"
 
@@ -41,19 +42,8 @@ def classificar(extinf):
 def alterar_categoria(extinf, tipo):
     global filmes, series
 
-    extinf = re.sub(
-        r'\s+tvg-type="[^"]*"',
-        "",
-        extinf,
-        flags=re.IGNORECASE
-    )
-
-    extinf = re.sub(
-        r'\s+group-title="[^"]*"',
-        "",
-        extinf,
-        flags=re.IGNORECASE
-    )
+    extinf = re.sub(r'\s+tvg-type="[^"]*"', "", extinf, flags=re.IGNORECASE)
+    extinf = re.sub(r'\s+group-title="[^"]*"', "", extinf, flags=re.IGNORECASE)
 
     if tipo == "movie":
         categoria = "FILMES"
@@ -62,14 +52,12 @@ def alterar_categoria(extinf, tipo):
         categoria = "SERIES"
         series += 1
 
-    if extinf.startswith("#EXTINF:"):
-        pos = extinf.find(",")
-        if pos >= 0:
-            metadados = extinf[:pos]
-            nome = extinf[pos:]
-
-            metadados += f' tvg-type="{tipo}" group-title="{categoria}"'
-            extinf = metadados + nome
+    pos = extinf.find(",")
+    if pos >= 0:
+        metadados = extinf[:pos]
+        nome = extinf[pos:]
+        metadados += f' tvg-type="{tipo}" group-title="{categoria}"'
+        extinf = metadados + nome
 
     return extinf
 
@@ -85,7 +73,7 @@ for arquivo in fontes:
     for linha in conteudo:
         linha = linha.strip()
 
-        if not linha or linha == "#EXTM3U":
+        if not linha or linha.startswith("#EXTM3U"):
             continue
 
         if linha.startswith("#EXTINF:"):
