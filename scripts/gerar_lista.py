@@ -6,6 +6,7 @@ SAIDA = BASE / "MinhaLista.m3u"
 
 fontes = [
     PLAYLISTS / "tv.m3u",
+    PLAYLISTS / "ManoSF.m3u",
     PLAYLISTS / "filmes.m3u",
     PLAYLISTS / "series.m3u",
 ]
@@ -16,7 +17,10 @@ for arquivo in fontes:
     if not arquivo.exists():
         continue
 
-    conteudo = arquivo.read_text(encoding="utf-8-sig", errors="ignore").splitlines()
+    conteudo = arquivo.read_text(
+        encoding="utf-8-sig",
+        errors="ignore"
+    ).splitlines()
 
     for linha in conteudo:
         linha = linha.strip()
@@ -26,7 +30,10 @@ for arquivo in fontes:
 
         linhas.append(linha)
 
-SAIDA.write_text("\n".join(linhas) + "\n", encoding="utf-8")
+SAIDA.write_text(
+    "\n".join(linhas) + "\n",
+    encoding="utf-8"
+)
 
 print(f"Lista gerada: {SAIDA}")
 print(f"Total de linhas: {len(linhas)}")
