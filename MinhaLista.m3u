@@ -118,18 +118,18 @@ https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 ############################################################################ CANAIS SporTV
 #EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://cr7v.short.gy/ManoTV/Spor1/index.m3u8
-#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
-https://cr7v.short.gy/ManoTV/S1/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://cr7v.short.gy/ManoTV/S2/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-https://cr7v.short.gy/ManoTV/S3/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
 ############################################################################ CANAIS ESPN
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-https://cr7v.short.gy/live25/spn/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
+http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+http://167.249.161.78:80/ESPN_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
@@ -146,50 +146,40 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
-https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 ############################################################################ CANAIS PREMIERE
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/Pre1/ManoTV/index.m3u8
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
-https://cr7v.short.gy/live/pre123/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiereclube.m3u8
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://cr7v.short.gy/Pre2/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://cr7v.short.gy/Pre3/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.m3u8
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://cr7v.short.gy/Pre4/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.m3u8
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD
-https://cr7v.short.gy/Pre5/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.m3u8
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://cr7v.short.gy/Pre6/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD²
 http://202555.halfa.win:80/streamyou/202555/34
 ############################################################################ AO VIVO | FUTEBOL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+
-https://cr7v.short.gy/ManoTV/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+ 2
-https://cr7v.short.gy/ManoTVL2/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus
-https://cr7v.short.gy/ManoTVD/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus 2
-https://cr7v.short.gy/ManoTVD2/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus2.m3u8
 ############################################################################ CANAIS | MAX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 5
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max3.m3u8
 ############################################################################ Canais | ESPORTES FREE
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV HD (LG TV)
 https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/playlist/amg00716-globo-gefast-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -201,12 +191,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV YT
-https://cr7v.short.gy/CZYT/ManoTV/75991634025/index.m3u8
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV YT 2
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/790040534a2a067a72b4406b593efe1f/file.txt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",XSports
-https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido HD
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido FHD
@@ -450,7 +436,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://cr7v.short.gy/ManoTV/temporário/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.m3u8
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hboplus.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
@@ -1474,6 +1460,30 @@ http://shd13.oneplayer.site/SHD13/317883/1x8LEG.mp4
 http://shd13.oneplayer.site/SHD13/317883/1x9LEG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP10
 http://shd13.oneplayer.site/SHD13/317883/1x10LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP11
+http://shd13.oneplayer.site/SHD13/317883/1x11LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP12
+http://shd13.oneplayer.site/SHD13/317883/1x12LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP13
+http://shd13.oneplayer.site/SHD13/317883/1x13LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP14
+http://shd13.oneplayer.site/SHD13/317883/1x14LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP15
+http://shd13.oneplayer.site/SHD13/317883/1x15LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP16
+http://shd13.oneplayer.site/SHD13/317883/1x16LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP17
+http://shd13.oneplayer.site/SHD13/317883/1x17LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP18
+http://shd13.oneplayer.site/SHD13/317883/1x18LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP19
+http://shd13.oneplayer.site/SHD13/317883/1x19LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP20
+http://shd13.oneplayer.site/SHD13/317883/1x20LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP21
+http://shd13.oneplayer.site/SHD13/317883/1x21LEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP22
+http://shd13.oneplayer.site/SHD13/317883/1x22LEG.mp4
 ############################################################################ Agente Kim: Reativado S01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mp1t2mi.png" tvg-type="series" group-title="SERIES",S01 E01
 http://shd13.oneplayer.site/SHD13/296206/1x1.mp4
@@ -3585,6 +3595,18 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/12
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" tvg-type="series" group-title="SERIES",S03 E05
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x5.mp4
 ############################################################################ FILMES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Matchbox – O Filme
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28498219.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Rápida e Mortal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0114214.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Operação Panda: A Tribo Mágica
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35514520.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Toy Story 5
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29355505.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Unabomber
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6933238.mp4
+Homem-Aranha: Um Novo Dia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22084616.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES", Nando Entre Dois Mundos: Filme Sintonia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES", George Washington
@@ -4105,30 +4127,6 @@ http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingad
 #EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST IPTV",Whats 75991634025
 https://abre.ai/canal7mp4
 ################################################################# NOVELAS TURCA S01
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP11
-http://shd13.oneplayer.site/SHD13/317883/1x11LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP12
-http://shd13.oneplayer.site/SHD13/317883/1x12LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP13
-http://shd13.oneplayer.site/SHD13/317883/1x13LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP14
-http://shd13.oneplayer.site/SHD13/317883/1x14LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP15
-http://shd13.oneplayer.site/SHD13/317883/1x15LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP16
-http://shd13.oneplayer.site/SHD13/317883/1x16LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP17
-http://shd13.oneplayer.site/SHD13/317883/1x17LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP18
-http://shd13.oneplayer.site/SHD13/317883/1x18LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP19
-http://shd13.oneplayer.site/SHD13/317883/1x19LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP20
-http://shd13.oneplayer.site/SHD13/317883/1x20LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP21
-http://shd13.oneplayer.site/SHD13/317883/1x21LEG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" tvg-type="series" group-title="SERIES",Daha 17 EP22
-http://shd13.oneplayer.site/SHD13/317883/1x22LEG.mp4
 ############################################################################ Agente Kim: Reativado S01
 #################################################################  A Nova Vida de Toby S01
 ############################################################################ SPIDER-NOIR S01
@@ -4228,16 +4226,6 @@ http://shd13.oneplayer.site/SHD13/317883/1x22LEG.mp4
 ############################################################################ DOM  S02
 ############################################################################ DOM  S03
 ############################################################################ FILMES
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Matchbox – O Filme
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28498219.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Rápida e Mortal
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0114214.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Operação Panda: A Tribo Mágica
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35514520.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Toy Story 5
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29355505.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-type="movie" group-title="FILMES",Unabomber
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6933238.mp4
 Homem-Aranha: Um Novo Dia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22084616.mp4
 #PLAYLISTV: pltv-logo="http://megafilmeshdplus.org/wp-content/uploads/2017/08/Mega-Filmes-HD-Plus-.Org_.png" pltv-name="CINEMA" pltv-description="Marcus" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
