@@ -35,9 +35,9 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.m3u8
 ############################################################################ Canais | REALITY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 1
-https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 2
-https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda2.m3u8
 ############################################################################ Canais | RECORD TV
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
 http://200.77.176.130:80/RECORD/index.m3u8
