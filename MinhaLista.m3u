@@ -147,7 +147,9 @@ http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 ############################################################################ CANAIS PREMIERE
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiereclube.m3u8
+http://202555.halfa.win:80/streamyou/202555/11
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.m3u8
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
@@ -160,6 +162,8 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD
 http://202555.halfa.win:80/streamyou/202555/34
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD²
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.m3u8
 ############################################################################ AO VIVO | FUTEBOL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.m3u8
